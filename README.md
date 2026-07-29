@@ -1,7 +1,7 @@
 🧠 Transformer 从零实现
 手动实现 Transformer 模型，深入理解 Attention Is All You Need 的核心机制
 
-![Python]https://img.shields.io/badge/Python-3.8+-blue.svg
+<img src="https://img.shields.io/github/stars/datawhalechina/happy-llm?style=flat&logo=github" alt="GitHub stars"/>
 https://img.shields.io/badge/PyTorch-2.0+-red.svg
 
 📖 项目简介
