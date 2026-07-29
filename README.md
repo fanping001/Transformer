@@ -70,6 +70,7 @@ output = attn(query, key, value, mask=None)
 text
 PE(pos, 2i)   = sin(pos / 10000^(2i/d_model))
 PE(pos, 2i+1) = cos(pos / 10000^(2i/d_model))
+
 3. 完整模型
 python
 from models.transformer import Transformer
