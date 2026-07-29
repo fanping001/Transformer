@@ -1,9 +1,6 @@
 🧠 Transformer 从零实现
 手动实现 Transformer 模型，深入理解 Attention Is All You Need 的核心机制
 
-<img src="https://img.shields.io/github/stars/datawhalechina/happy-llm?style=flat&logo=github" alt="GitHub stars"/>
-https://img.shields.io/badge/PyTorch-2.0+-red.svg
-
 📖 项目简介
 本项目用纯 PyTorch 从零手动实现 Transformer 模型，不依赖预训练权重或高级封装库（如 Hugging Face Transformers）。代码逐行实现以下核心组件：
 
